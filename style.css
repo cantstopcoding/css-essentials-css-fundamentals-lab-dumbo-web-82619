@@ -31,7 +31,9 @@ nav a {
   display: block;
   float: left;
   background-color: #FF9966;
-  margin: 0 auto;
-  
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
 }
 
